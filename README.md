@@ -1,5 +1,9 @@
 🗄️ SGBD — Sistemas de Gerenciamento de Banco de Dados
-<p align="center"> <img src="https://img.shields.io/badge/SGBD-Banco%20de%20Dados-blue?style=for-the-badge&logo=database" alt="SGBD"> <img src="https://img.shields.io/badge/SQL-Consultas-orange?style=for-the-badge&logo=mysql" alt="SQL"> <img src="https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-badge&logo=github" alt="GitHub"> </p> <p align="center"> 📚 Repositório destinado às atividades, exercícios e projetos desenvolvidos durante as aulas de <strong>Sistemas de Gerenciamento de Banco de Dados</strong>. </p>
+<p align="center"> <img src="https://img.shields.io/badge/SGBD-Banco%20de%20Dados-blue?style=for-the-badge&logo=database" alt="SGBD"> <img src="https://img.shields.io/badge/SQL-Consultas-orange?style=for-the-badge&logo=mysql" alt="SQL"> <img src="https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-badge&logo=github" alt="GitHub"> </p> <p align="center">
+
+📚 Repositório destinado às atividades, exercícios e projetos desenvolvidos durante as aulas de <strong>Sistemas de Gerenciamento de Banco de Dados</strong>.
+
+</p>
 📖 Sobre o repositório
 
 Este repositório foi criado para organizar e documentar minha jornada de aprendizado em SGBD, reunindo atividades práticas, exercícios, projetos e conteúdos trabalhados durante as aulas.
@@ -27,7 +31,7 @@ Aqui ficam registrados os códigos, consultas e práticas desenvolvidas ao longo
 
 🧠 Conteúdos
 
-Durante as aulas, são trabalhados conceitos fundamentais de banco de dados, como:
+Durante as aulas, são trabalhados conceitos fundamentais de banco de dados:
 
 📚 Conteúdo	🔎 Descrição
 🗄️ Banco de Dados	Conceitos e fundamentos
@@ -55,28 +59,35 @@ Durante as aulas, são trabalhados conceitos fundamentais de banco de dados, com
 📈 Acompanhar minha evolução durante a disciplina.
 
 📈 Minha evolução
-        📖 APRENDER
-             │
-             ▼
-        💻 PRATICAR
-             │
-             ▼
-          🐛 ERRAR
-             │
-             ▼
-        🔍 INVESTIGAR
-             │
-             ▼
-        🛠️ CORRIGIR
-             │
-             ▼
-        🧠 ENTENDER
-             │
-             ▼
-        🚀 EVOLUIR
+                 📖
+              APRENDER
+                 │
+                 ▼
+                 💻
+              PRATICAR
+                 │
+                 ▼
+                 🐛
+                ERRAR
+                 │
+                 ▼
+                 🔍
+             INVESTIGAR
+                 │
+                 ▼
+                 🛠️
+              CORRIGIR
+                 │
+                 ▼
+                 🧠
+              ENTENDER
+                 │
+                 ▼
+                 🚀
+              EVOLUIR
 
 
-💡 Cada exercício é uma oportunidade de aprender algo novo.
+💡 Cada erro faz parte do processo. Cada correção é um passo a mais.
 
 🗃️ Organização
 
@@ -84,12 +95,12 @@ As atividades são organizadas de acordo com o conteúdo trabalhado em aula, fac
 
 Conforme novas aulas e atividades forem realizadas, o repositório será atualizado. 🔄
 
-📌 Status
+📌 Status do projeto
 <p align="center">
 
-🟢 Em desenvolvimento
+🟢 <strong>EM DESENVOLVIMENTO</strong>
 
-<br>
+<br><br>
 
 📚 Disciplina: <strong>SGBD</strong><br>
 💻 Atividades: <strong>Em andamento</strong><br>
@@ -114,5 +125,4 @@ WHERE dedicação = 'constante';
 💻 Feito durante as aulas de SGBD
 
 Aprender → Praticar → Errar → Corrigir → Evoluir 🚀
-
 </div>
