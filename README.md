@@ -1,4 +1,4 @@
-📚# Atividades — SGBD
+# Atividades — SGBD 📚
 
 Repositório destinado às atividades, exercícios e materiais das aulas de Sistemas de Gerenciamento de Banco de Dados (SGBD).
 
